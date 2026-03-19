@@ -4,3 +4,5 @@ Despues de un complejo dia de trabajo, ese espera visita importante mañana, lñ
 Comida y toma de medicamentos para intentar mejorar un poc y a estudiar.
 
 Trabajamos en el repositoreio hasta que sea capaz de trabajar tanto con visual como Git hub fluidamente.
+Edito el archivo desde diferentes modos y guardo los cambios,
+Dias proximios utilizare diferentes formatos.
