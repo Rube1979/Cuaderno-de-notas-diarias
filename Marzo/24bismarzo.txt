@@ -1,0 +1,5 @@
+Martes 24 de marzo.  Hoy por trabjao estoy en el turno de mañanas,  en mi antigua tienda
+ de la calzada.
+Parece que no pasa el tiempo alli y se me hizo m uy entrañable trabajar alli.
+La gente y todo es algo unico y me hace replantearme muchas cosas, entre ellas pedir el cambio a esa tienda.
+Por otro lado me esta costando mucho entender el fvuncionamiento correcto de los commits de git. 
