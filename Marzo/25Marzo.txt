@@ -1,0 +1,4 @@
+Hoy miercoles me toca abrir la tienda de Felipe VI, (La calzada).
+Por la tarde seguimos machando git y git hub asi como dando los primeros pasos en Eclipse.
+Aunque seguire un  curso de Pildoras informaticas sobre eclipse y Java, no puedo perder de vista
+el temario de entornos de desarrollo.
